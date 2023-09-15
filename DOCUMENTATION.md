@@ -2,7 +2,7 @@
 Documentation for REST API  
 Flask User Management App
 
-This documentation provides details on how to use the Flask User Management API. This API allows you to create, retrieve, update, and delete user records in a SQLite database.
+This documentation provides details on how to use the REST Flask User Management API. This API allows you to create, retrieve, update, and delete user records in a SQLite database.
 
 Base URL
 ________
@@ -150,4 +150,4 @@ By default, the API will run on http://localhost:5000 with debugging enabled (de
 
 Conclusion
 ___________
-This documentation provides comprehensive information on how to use the Flask User Management API to perform CRUD operations on user records. Use the provided endpoints to interact with the API and manage user data in the SQLite database.
+This documentation provides comprehensive information on how to use the REST Flask User Management API to perform CRUD operations on user records. Use the provided endpoints to interact with the API and manage user data in the SQLite database.
