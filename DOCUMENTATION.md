@@ -8,6 +8,8 @@ Base URL
 ________
 The base URL for all API endpoints is:
 
+https://restapi-1.mubaraquthman.repl.co
+
 Endpoints:
 
 To create a New User
